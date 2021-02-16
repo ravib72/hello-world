@@ -1,0 +1,139 @@
+//*****TCS Internal*******
+Feature branching is used to _.
+Work on user stories  --  Correct
+
+Release branches are created for resolving merge conflicts.
+False  --  Correct
+
+Which is NOT a benefit of CI ?
+Bugs and defects no longer occur  --  Correct
+
+Activities that are part of continuous integration.
+All of the Options  --  Correct
+
+Which is not a CI practice ?
+Deploy to production  --  Correct
+
+Which is NOT true about continuous integration ?
+Involves moving code in large amounts  --  Correct
+
+Work Branch is also known as_.
+Codeline  --  Correct
+
+Git is a _ version control system.
+Distributed  --  Correct
+
+***********************************************************************************************
+
+Time taken to fix a broken build is measured using __.
+Build repair rate  --  Correct
+
+__ is a .Net build tool.
+NAnt  --  Correct
+
+Pipeline break and build break is one and the same.
+False  --  Correct
+
+Capablility of your build system to handle an increase in the amount of code that it integrates and analyzes is known as .
+Build scalability  --  Correct
+
+Complexity of a code is determined based on ___.
+Cyclomatic Complexity Number  --  Correct
+
+_ is a measure of incoming dependencies.
+Apperent Coupling  --  Correct
+
+Private builds are executed after moving the changes to version control.
+False  --  Correct
+
+Build can be triggered by a version control tool.
+True  --  Correct
+
+************************************************************************************************
+
+Release builds can be triggered ___.
+On-demand  --  Correct
+
+is a continuous integration server.
+Maven  --  Correct
+
+Jabber is a :
+Messaging plugin  --  Correct
+
+Staged builds include _.
+Secondary builds
+
+Trunk is also known as ____.
+Mainline  --  Correct
+
+Practice of developers integrating changes directly in the feature or work branches and commiting the changes at the end to the mainline is known as _.
+Continuous Integration  --  Correct
+
+Faster feedback can be received by ___.
+Staging builds
+
+Commiting a code change, when the inspection fails , is perfectly fine as the code logic is working fine anyway.
+False  --  Correct
+ 
+____ helps in differentiating the environments.
+Configuration files  --  Correct
+
+Which is the first code analysis to be executed ?
+unit test
+
+Control flow graph is used to calculate _.
+Cyclomatic Complexity  --  Correct
+
+CI pipeline consists of .
+Artifacts
+
+Which of the tools is not used for establishing a pipeline workflow ?
+Travis CI  --  Wrong
+Teamcity
+
+Arrange in order- A. Running Unit Test B.Running Static Code Check C.Check for Code Coverage D. Build Package
+
+Git, Mercurial and Subversion are centralized version control tools.
+False  --  Correct
+
+How are component dependencies injected in a workflow ?
+Build package first and then perform the remaining tasks
+
+Staged builds include _.
+Commit builds
+
+CI servers use the _ expression to poll for changes.
+CRON  --  Correct
+
+Efferent Coupling is a measure of .
+Outgoing dependencies  --  Correct
+
+Teamcity is a .
+Build Tool  --  Correct
+
+Component test is executed as part of _.
+Integration Build  --  Correct
+
+CCMetrics is used to identify _.
+Code Complexity  --  Correct
+
+Which of the following is an artifact repository ?
+Maven  --  Wrong
+
+Feature toggle can be used in the following scenarios .
+Disabling or Hiding a feature  --  Wrong
+
+Code changes can be hidden,enabled or disabled using ___.
+Feature Toggles  --  Correct
+
+_ is a code coverage tool.
+Cobertura  --  Correct
+
+Which of these is not mandated for a CI pipeline ?
+Application code  
+
+Does CI pipeline need to have all the software development functionalities integrated in place ?
+False  --  Correct
+
+Which of the tools is not mandated for integration in a CI pipeline ?
+Chef  --  Wrong

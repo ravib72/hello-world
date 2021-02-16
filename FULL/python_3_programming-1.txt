@@ -1,0 +1,117 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf100
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red73\green73\blue73;\red246\green247\blue249;\red57\green57\blue57;
+\red255\green255\blue255;\red73\green73\blue73;\red246\green247\blue249;}
+{\*\expandedcolortbl;;\cssrgb\c35686\c35686\c35686;\cssrgb\c97255\c97647\c98039;\cssrgb\c29020\c29020\c29020;
+\cssrgb\c100000\c100000\c100000;\cssrgb\c35686\c35686\c35686;\cssrgb\c97255\c97647\c98039;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl420\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The 2 main versions of Python include \'97- Python 2 and python 3\
+\
+Which of the following attributes shows the characteristics of Python? Python is everywhere (Webscripting, 3D Modelling , Games , and Desktop applications ) \'97 ubiquity\
+\
+Python supports automatic garbage collection \'97 true\
+\
+Which is the fastest implementation of Python \'97 pypy\
+\
+
+\fs36 Code written in Python 3 is backward compatible with Python 2 \'97 False\
+\
+Which of these are salient features of Python, except \'97 limited platform support\
+\
+Python is Ubiquitous? Is this true or false ? - True\
+\
+When using the Python shell and code block, what triggers the interpreter to begin evaluating block of code? \'97 blank line\
+\
+What command is used to output text from both the Python shell and within a Python module? \'97 print()\
+\
+While using Python IDLE, by how many space are the code suites indented? \'97 4\
+\
+Which action should be avoided so that you do not mistakenly overwrite names that you have already defined? \'97 use the wildcard import\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 Equivalent operation for function pow(x , y) is __. \'97 x**y\
+\
+Which datatype is represented by int in Python 3? \'97 decimal* long\
+\
+Which statement accurately defines the bool class? \'97 Boolean not returns false\
+\
+Which of the following will not result in declaring x as datatype of float? \'97x=5\
+\
+Which statement correctly assigns X as an infinite number? \'97 x= float(\'91inf\'92)\
+\
+The bool class is subset of ______. \'97  int\
+\
+Is x,y=5,6 a valid statement? - true\
+\
+While using 'bool', all zero values are considered as false and non- zero values are considered as true. Is this correct? \'97 True\
+\
+What is the output of bool(0)? \'97 False\
+\
+Byte datatype can contain only ______ and ______. \'97 ascii& hexane\
+ \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 What is the output of min('Infinity')? \'97 f\
+\
+Which describes bytearrays? \'97 without an argument\
+\
+Which statements will result in slice of tuple? \'97 0 =
+\fs28 \cf4 \cb5 \strokec4 a_tuple[::2] a_tuple[:]\cb1 \
+\pard\pardeftab720\sl320\partightenfactor0
+\cf4 \
+\pard\pardeftab720\sl420\partightenfactor0
+
+\fs36 \cf2 \cb3 \strokec2 \
+Values in bytearray should be integers between \'97 0-255\
+\
+Which statements prevent the escape sequence interpretation? r \'91..\\t\'92\
+\
+Using Pop in list will remove the popped up item. \'97True\
+\
+Which of these could be used in tuple object \'97 Sorted,lens, max\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 Which statement creates the bytes literal when run? \'97 bytes_literal= copyright\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 The class which provides immutable sequence of elements \'97 tuple\
+\
+Which methods can be used with list objects? \'97 reverse, pop , clear\
+\
+Empty list could be created with list() alone. \'97False\
+\
+bytearray provides an mutable sequence (making it modifiable) \'97 true\
+\
+While using slicing in lists, list[0:2] is equivalent to ______. \'97 list[:2]\
+\
+\pard\pardeftab720\sl520\sa200\partightenfactor0
+\cf2 \'a0What is the output of max('Infinity')? \'97 y \
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 bytearray provides an mutable sequence (making it modifiable) \'97 true\
+\
+Empty dictionary is represented as ________. \'97 []\
+\
+Dictionary could be copied to another dictionary using which of following syntax? \'97 dir_a= dir_b.copy()\
+\
+Consider b is frozen set, what happen to b.add(3)? \'97 Error as frozen set\
+\
+All of these range types are correct except ___. \'97 range(20,40,-2)\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 a.difference(b) highlights the ________. \'97 a-b\
+\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 a.symmetric_difference(b) highlights the ________.\'97 a.union(b) - a.intersection(b)\
+\
+What is the output of the following code count = 0 while count < 2: print (count, " is less than 2") count = count + 2 else: print (count, " is not less than 2\'94) \'97 
+\fs28 \cf4 \cb5 \strokec4 0 is less than 2; 3 is not less than 2\cb1 \
+\
+
+\fs36 \cf2 \cb3 \strokec2 What is the output of below code snippet - for char in 'Welcome': print (char, end='*') print() \'97 W*e*l*c*o*\
+\
+a = 0 if a: print("a's value") else: print("Sorry nothing will get printed") \'97 \cf6 \cb7 \outl0\strokewidth0 Sorry nothing will get printed\
+\
+\cf2 \cb3 \outl0\strokewidth0 \strokec2 What is the output of the following code? for x in (1,10,100): print (x) \'97 1 10 100}

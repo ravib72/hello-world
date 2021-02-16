@@ -1,0 +1,65 @@
+Collection of executable codes is known as----------->binary 
+
+A build that fails __________ stage will not be deployable.-------------> acceptance 
+
+Large scale changes to an application can be achieved using------------->branch by abstraction
+
+Capacity testing _______________.-------->trchnical 
+
+A build can be triggered by a version control tool.--->true
+
+Accurev is a _____________________________ system.---------> steam based
+
+The continuous deployment must be followed to practice continuous delivery.------>true 
+
+____________ testing was derived from hardware testing.-----> smoke 
+
+
+--------------------------------------------------------------------------------------------
+
+
+New instance of ___________ is created upon every check-in---------->all the options ****
+
+Build-time dependency should be present when an application is run.------>false 
+
+People who do the deployment should be part of creating the deployment process.---------->true 
+
+
+Release candidate is created after the change passes through the ______________.commit 
+
+
+Build tools can be categorised as __________________.----->both the op
+
+
+Continuous deployment aims at making feedback loops as short as possible.---------->true 
+
+Dependencies between components must be represented using ______.---------->directed acyclic 
+
+Time taken to fix a broken build is measured using ________________. ------------> Build repair rate 
+
+MTTR is __________________.--------->mean time repair
+----------------------------------------------------------------------------------------
+
+
+
+Chef is an orchestration tool.--------->true
+
+______________ is a non-functional test.-------->performance
+
+_____________ is a central part of continuous deployment.---------->deployment pipeline
+
+__________________ stage takes the delivery team beyond continuous integration.--------------->commit
+
+
+Deployment pipeline is an extension of ______________.------> continuous
+
+In branch by abstraction model, features are developed in _________.----->mainline
+
+Testing done in a customer's environment is know as ____________.---->beta testins
+
+Feature toggles is possible in version control systems.-------->false
+
+Load and Longevity test can be triggered parallelly.----->true
+
+_______________ stage asserts that the system works at the technical level.-------->commit
+

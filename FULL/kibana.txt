@@ -1,0 +1,62 @@
+Which of the following is an appropriate query to be typed in search bar for getting all documents in which “state” equals “TX”?
+State TX
+Configuration file for Kibana is named as .
+kibana.yml
+Default location to run Kibana is _.
+local host5601
+What can be created with the help of Kibana?
+All
+What is Kibana?
+a visualization tool
+You can only set the Index pattern once.
+FALSE
+If Elasticsearch is not visible via Kibana, what could be the problem?
+both
+Kibana is an independent tool nothing to do with ELK stack.
+FALSE
+Is it necessary to use curl command while querying in Kibana?
+NO
+------------------------------------------------------------------------
+Filters may be ___.
+Both
+Upon searching, the listing is done in chronological order which means ___.
+Newest doc firdt
+Geohash is used to create buckets based upon .
+geo point
+Visualize page is responsible for __.
+All
+Discover is used for .
+Both
+Date histogram is performed on date/time values that are automatically extracted from documents.
+TRUE
+Which of the following is not a metric aggregation?
+log
+Can boolean operators like AND, OR etc. can be used in Lucene Query Syntax?
+Yes
+In bucket aggregation, buckets are created to store _.
+Documents
+Where can you access discover page in Kibana?
+Top left corner below kanban
+We can show multiple dashboards in visualization page.
+FALSE
+Can we save the visualizations we create in Kibana?
+YES
+
+-----------------------------------------------------------------------------
+What are the steps to create a coordinate map?
+new vis---> XXX
+What will Max Aggregation do?
+hightest bucket val XX
+
+Anyone in the world can see the visualization with the help of the sharable link.
+YES
+Management page of Kibana is used for _.
+ALL
+What is the function of Gauge?
+Thershold val
+Why is Dashboard used for?
+ALL
+Percentile ranks are used to calculate single or multiple percentile ranks.
+TRUE
+Timelion is a .
+kanban perf acc

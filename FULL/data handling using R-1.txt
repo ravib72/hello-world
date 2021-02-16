@@ -1,0 +1,51 @@
+Which Semantic element is best suitable for content like blog post that is self contained, independent and can be republished ---article
+Which of the following tags are no longer valid in HTML5---p ***
+Which of the following tags represents a section of document used for navigation?----nav
+Which of the following attribute triggers events when a form changes---onformchange
+onformchangeWhat are the new form elements introduced in HTML5----datalist,keygen, output
+onformchangeHow do you embed a video player using---source****
+The controls attribute adds audio/video controls like PLAY, PAUSE and VOLUME----True
+HTML5 audio tag has a number of attributes to control the look and feel and various functionalities of the audio player. Which of the following is not an attribute of HTML5 audio element?---stop
+Audio element can be programmatically controlled from--Html/css/javascript***
+Which attribute of the video tag specifies an image to be shown while the video is downloading---poster
+place a canvas element with an ID of canvas1 into a JavaScript variable--
+
+**********************************************************************************************
+
+Which of the following command's print a subset of the dataset mtcars? All the options mentioned
+How to find structure of a dataframe - str()
+Which of the following is not correct -Length of each vector used to create data frame should be same*
+
+What is the average horsepower of 4 gear, automatic transmission cars in the R built-in dataset "mtcars"-----83.875
+What is the average mileage(mpg) of 6 cylinder, manual transmission cars in the R built-in dataset "mtcars" --20.56667
+Data table is mainly used for aggregation--False
+What is SQL equivalent of "i" in a typical data table query--Where
+By default R stores strings in data frames as: --string *   char*   text* factor
+Which function do you use to print the names of all columns in a data frame? --names()
+which of the following function can be used to create a dataframe in R--data.frame()
+which command will print the dataset"mtcars" in ascending order of their milage--mtcars[order(mtcars$mpg),]
+a hospital data contains patients age___--tapply
+which function can be used wheb a vector needs to be split into groups__--apply
+what will following lines of code return
+   x<-matrix(1:18,6,3)____--vector of 3
+for a given matric mat.how do you increment every element-- I&II
+which of the following is multivariate version of lapply?--mapply
+which package is used to import data from SQL server to R--RODBC
+which comand can be used to import data from xlsx file in R--read.table()
+nrows & skip arguments in the read.table() command can be used to get--All options
+The functions write.c() exports dta into file--rownames=F
+tbl is an extension of:--dataframe
+dplyr is useful for::-all the options
+Which of the following functions can be used to find the number or rows and columns in a dataset?--dim
+Which of the following functions lists all columns in a dataset with few values from each column?--print
+Which of the following functions does not list the total number of observations in a dataset?--glimps,
+In the hflights dataset, how many flights were cancelled in the month of January 2011.--209
+In the iris dataset, how many flowers havePetal.Length/Petal.Width ratio of less than 10.--145
+What is the average mileage of a car in the mtcars dataset--21.09or 23.09
+In the mtcars dataset, how many cars provide a mileage of less than 20 mpg?--18
+In the iris dataset, how many flowers of species setosa havePetal.Length/Petal.Width ratio of less than 10--45
+If x and y are two tbls, which of the following joins return all rows from x where there are matching values in y, keeping just columns from x?--semi join
+If x and y are two tbls, which of the following joins return all rows from x where there are matching values in y, and all columns from x and y?--inner join
+If x and y are two tbls, which of the following joins return all rows from y, and all columns from x and y?--right join
+If x and y are two tbls, which of the following joins return all rows from x and y irrespective of matching values?-full join
+If x and y are two tbls, which of the following joins return all rows from x where there are not matching values in y, keeping just columns from x?--anti join

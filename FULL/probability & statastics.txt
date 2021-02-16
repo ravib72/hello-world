@@ -1,0 +1,92 @@
+Which of the following is an arithmetic mid-value?--------->mean
+
+What is the numerical measure of average variability of a data set around the mean------->standard deviation
+
+Which type of statistics helps us understand how the data looks like without 
+giving much information on analysis of the data?--------->discriptive
+
+If a class consists of 20 males and 8 females, what is the probability of drawing 4 females without replacement?-->8/28,7/27,6/26
+
+How many different ways can four team members from the group of fifteen be lined up for a photograph.----->1365
+
+Your team has 10 members and you need 3 of them for an app development. How many possible combinations are there?---->120
+
+A watch manufacturer has two factories (FA, FB) ------>0.05
+
+In a hospital, 10% of patients have liver----->0.14
+
+Identify the variables that are continuous or discrete--------->time and weight contineous
+
+
+There may be times when data is supposed to fit a normal distribution, 
+but does not. Which of the following could be reasons for this?------------->out & small 
+
+When the Standard Deviation in a Normal Distribution is higher, which of the following is true?--->the peak lower
+
+What are the characteristics of normal distribution--------->the mean lies at center of the
+
+Which of the following characteristics correspond to a Binomial Distribution?-------->all the options
+
+In which of these examples, binomial distribution can be used?--------->probabily of getting
+
+Which of the following can be modelled using Poisson distribution--------------->Number of accidents 
+
+Which of the following conditions are satisfied by Poisson random variable?--->dipendent 
+
+
+If a finding is statistically significant one must also interpret the data, 
+calculate an effect size indicator, and make an assessment of practical significance------------>true
+
+
+The probability of rejecting the null hypothesis when it is true is called:--------->level of significance
+ 
+Any statement whose validity is tested on the basis of a sample is called:--------->statastical probability 
+
+
+The significance level is the risk of:-------->rejecting ho when ho is correct 
+
+After a clinical trial, it is concluded that both drugs A and B are equally 
+effective. What type of a hypothesis is this? --------------->null hypothesis 
+
+If you reject H0 but H0 is true, what type of error has occurred---------->type 1 
+
+A passing student is failed by an examiner, it is an example of:------------->type -2 error 
+
+Assuming innocence until proven guilty, a Type I error occurs when an innocent person is found guilty---->true 
+
+A Type I error is also known as a ---------->FALSE POsitive 
+
+Which variable represents the actual Type I error---------->  p value      
+
+
+The shape of the t-distribution depends upon the---------->degree of freedom
+
+Which of the following is not the purpose of student's t-distributions?---------->when modelling the
+
+
+Which of the following is not the purpose of using chi-square distributions?------------->to test how closely
+
+
+What of the following is not a characteristic of F-distribution curve------------>the curve is left skewed
+
+
+The ANOVA is a statistical test that is used to compare how many group means------------>two means
+
+
+A post hoc test is:--------->a fellowup 
+
+
+A statistical test used to compare 2 or more group means is known as:----------->one way varience
+
+
+The use of the laws of probability to make inferences and draw statistical conclusions about populations based on sample data is referred to as -------->inferential stata
+
+
+An advertising agency wants to test the -------->equals to the 25%
+
+Any hypothesis which is tested for the purpose of rejection under the assumption that it is true is called?----->null
+
+The dividing point between the region where the null hypothesis is rejected and the region where it is not rejected is said to be------>critical value
+
+
+An essential component of the Central Limit Theorem is that------------>the average of sample means will be

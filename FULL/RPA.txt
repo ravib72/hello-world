@@ -1,0 +1,157 @@
+RPA
+
+
+the topmost layer in layered design of RPA is _.
+process
+
+is hosted on a server.
+robot controller
+
+BPM interacts through the _ layer.
+
+Data access & presentation---wrong
+
+Agents are capable of performing close to actions.
+600
+
+Sequence of step by step instructions is known as a ___.
+job
+
+Software robots are capable of interacting with a wide range of systems.
+True
+
+ deploys jobs to the software robots.
+Robot Controller
+
+Assisted Automation focusses on dynamically assigning tasks and monitoring them between Human-Machine system
+
+true
+
+The sequence of user action is captured to speed up the process definition using _.
+Process recorder
+
+In RPA process layered approach, factors make up being strong determinants of scalability and reliability.
+reusability
+
+Unclear inputs, Social Context, Task distribution, and Transformation are some of the key attributes which favor RPA.
+assisted
+
+Prioritized work queues is available in
+all the options
+
+Process Administration technique, which focuses on Global process tracking is _.
+
+All the options
+
+Re-engineering the entire underlying process is part of __
+BPM
+
+RPA stores data and enables automation.
+
+True
+
+RPA does not enforce integration requirements.
+
+
+
+True
+
+publishes data to the master repository.
+robot controller
+
+RPA is best for automating processes.
+
+all the options
+
+is aimed at IT architecture to enable process management capability.
+
+All the options mentioned
+
+_ deploy(s) jobs to the software robots.
+
+Process recorder
+
+Autonomous RPA is a kind of __.
+
+Unassisted
+
+RPA interacts with multiple application at the ________ layer.
+
+object
+
+RPA is similar to old technologies such as screen scrapping or macros.
+
+True
+
+For RPA to work efficiently, programming logic of the underlying systems must be modified accordingly.
+
+False
+
+UiPath offers rule based automation.
+
+False
+
+provides instructions to robot.
+Robot Controller
+
+RPA enables .
+
+None of the options
+
+Which among these is not an RPA tool?
+Openspan
+
+Greater resilience is achieved in RPA through ____.
+
+Object oriented approach
+
+RPA will be able to handle operations such as __.
+
+document classification AND claims processing
+
+A software robot is trained in a live environment.
+
+True
+
+Robots are trained by .
+
+end-user
+
+All the RPA tools provide both front and back office automation.
+true
+
+Macros are linear and fixed but RPA is dynamic.
+true
+
+RPA with thinking and decision making capabilities are known as _ RPA.
+
+intellisense
+
+RPA enables reduction of data entry errors.
+
+True
+
+Layered approach in RPA design assists in separating different levels of abstraction.
+
+True
+
+Blue Prism has the largest trained ecosystem.
+
+True
+
+___ is used for nesting of sub steps in a job.
+Developer Tools
+
+Locating objects relative to the edge of the screen is known as ___.
+
+Both of the options
+
+RPA enables monitoring of network devices.
+true
+
+Recorder function is an added advantage while selecting a RPA tool because it assists with .
+speeding up of the configuration
+
+RPA answers to customers in _.
+
+natural language

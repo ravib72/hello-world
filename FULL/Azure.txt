@@ -1,0 +1,131 @@
+The new Azure Portal is accessed using ___________.
+https:\\portal.azure.com...
+
+In which operating system, we can use Azure PowerShell?
+
+windows...
+
+
+When using Azure Resource Manager, you can use a _______________ for deployment, which can build identical environments for different work scenarios such as testing, staging, and production.
+
+Template...
+
+Which one of the following serives is a NoSQL datastore?
+tables..
+
+In which operating system, we can use Azure CLI?
+All ...
+
+Which cloud offering focuses on the consumption of services?
+Saas...
+
+High available applications are ____________.
+
+All..
+
+If you have to replace your current on-premise services in the form of virtual machines, then you can use Microsoft Azure cloud categorized as ____________.
+IAAS...
+
+Azure is Microsoft’s ___________ as a Service Web hosting service.
+IAAS..
+
+You can view the latest data center map and Pay as You Go subscription information in (the) ________?
+Azure dashboard..
+
+Which of the following statements are correct?
+
+All...
+
+Microsoft uses industry standard _______________ dynamic routing protocol to exchange routes between your on-premises network, your instances in Azure, and Microsoft public addresses.
+EGP....
+
+Which connection configuration offers faster speeds, higher security, lower latencies and higher reliability?
+Express route...
+
+.......is used to route the traffic between virtual machines inside your pirvate virtual network.
+Azure Internal Load Balancers...
+
+ExpressRoute connections enable access to the _________.
+All...
+
+A subnet is a range of IP addresses in a __________.
+
+Vnet...
+
+Which Azure networking component is the core unit from which administrators can have full control over IP address assignments, name resolution, security settings, and routing rules?
+Virtual Networks (VNETs)...
+
+Default Private IP address allocation method is _________.
+dynamic...
+
+When should you use a static IP address?
+DNS server...
+
+
+
+Most types of resource can be moved to a different resource group at _______.
+Anytime..
+
+You can estimate costs you will incur on Azure by using which tool?
+
+pricing calculator...
+
+You need to deploy a virtual machine on Azure with a low memory entry level requirement. Which virtual machine sizes should you consider choosing?
+Basic_A0- Basic_A4...
+
+Which of the following Windows Server roles is not supported on Azure Virtual Machines?
+Hyper-v...
+
+To how many resource groups can a resource be added?
+1...
+
+The VM size determines the number of __________.
+NIC...
+
+Azure Virtual Machines only support VM's running Microsoft Windows operating system.
+False....
+
+Which of the following helps Azure maintain high availability and fault tolerance when deploying and upgrading applications.
+
+Availability set....
+
+The smallest recommended virtual machine size in Azure for a production environment is:
+A1...
+
+Azure supports both .vhd and .vhdx file formats for Virtual Machines.
+False..
+
+
+Geo Redundancy is to provide high availability in ________.
+
+Geographically...
+
+In which type of Storage replication, data is not replicated across multiple datacenters?
+
+Locally redundant storage(LRS)....
+
+You add a data disk to an Azure virtual machine. What drive type is created?
+SCSI...
+
+Your Azure storage account is always replicated to ensure durability and high availability. By default, which of the following replications schemes is used?
+RA-GRS...
+
+Geo-replication is enabled by default in Windows Azure Storage.
+Yes....
+
+What type of storage account is backed by magnetic drives and provides the lowest cost per GB?
+Standard...		
+
+If you choose this redundancy strategy, you cannot convert to another redundancy strategy without creating a new storage account and copying the data to the account.
+ZRS...
+
+The maximum size for a file share is 5 TBs.
+True...
+
+Premium storage disks for virtual machines support up to 64 TBs of storage.
+True....
+
+Which type of storage offering uses SSDs and is intended for use with Virtual machines?
+Premium...
+
+

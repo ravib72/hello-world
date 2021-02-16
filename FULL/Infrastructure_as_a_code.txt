@@ -1,0 +1,391 @@
+Infrastructure as Code
+=========================
+
+
+When a server requires special configuration beyond that covered by automated deployment scripts, it is called
+
+Snowflake Server--co
+
+Server Sprawl
+
+Automation Fear
+
+Configuration Drift
+
+__________ configuration is faster than ___________ configuration
+
+Automated, Manual--co
+
+Manual, Hybrid
+
+Manual, Automated
+
+Automated, Hybrid
+
+For quick configurations, the servers must be
+
+Well configured
+
+Automated
+
+Identical--co
+
+Different
+
+Which is directly proportional to your business?
+
+Clarity
+
+Security
+
+None of the options
+
+Availability--co
+
+IaC is frequently referred to as, _
+
+infrastructure automation
+
+Infrastructure Programming
+
+Programmable infrastructure--co
+
+Automated Infrastructure
+
+IaC simplifies the tasks of
+
+Coding team
+
+None of the options
+
+IT team--co
+
+Testing Team
+
+_________ causes more failure than _________
+
+Hardware failure, Humar error
+
+Hardware failure, Software Error
+
+Human Error, Hardware failure--co
+
+Software failure, Human Error
+
+A challenge that grows over time is, __
+
+Fragile Infrastructure
+
+Erosion
+
+Configuration Drift--co
+
+Snowflake Servers
+
+When we don't record the adhoc changes of hardware/software, it is called the
+
+Erosion
+
+Server Sprawl
+
+Server Spikes
+
+Configuration Drift--co
+
+Which of the following describes only the desired state of the system?
+
+Imperative
+
+Iterative
+
+Intelligent
+
+Declarative--co
+
+If a change is patched, it is ___ infrastructure
+
+Mutable--co
+
+immutable
+
+hybrid
+
+Semi-immutable
+
+The most straightforward approach to implement IaC is
+
+Physical Configuration
+
+Manual Configuration
+
+Scripting--co
+
+Automated Configuration
+
+Which of the following describes how to achieve the desired state of the system?
+
+Declarative
+
+Imperative--co
+
+Intelligent
+
+Iterative
+
+__________ infrastructure replaces a server completely when there is a change
+
+Semi-immutable
+
+Mutable
+
+immutable--co
+
+hybrid
+
+Which of the following is not a cloud service provider?
+
+AWS Lambda
+
+IBM OpenWhisk
+
+Cloud Functions
+
+Google Azure--co
+
+__________ infrastructure increases the predictability
+
+hybrid
+
+immutable--co
+
+Mutable
+
+Semi-immutable
+
+There is no server in the server-less architecture
+
+False--co
+
+True
+
+Automation is well suitable for the environments which are
+
+Not unique--co
+
+Partially unique
+
+Unique
+
+Completely Unique
+
+It is easy to ________ a system, than to ________ it.
+
+Replace , Fix--co
+
+Patch, Replace
+
+Fix, Reproduce
+
+Fix, Replace
+
+Which of the following is a configuration definition file?
+
+Terraform
+
+Manifests--co
+
+Openstalk
+
+Cloud formation
+
+Which of the following is a Containerization System?
+
+Warden
+
+Puppet
+
+SaltStack--c
+
+Fabric
+
+Which of the following is an infrastructure definition tool?
+
+Playbooks
+
+Ruby
+
+templates
+
+Terraform--co
+
+___________ shares the OS kernel of the host system.
+
+Virtual Machine
+
+Container--co
+
+Hypervisor
+
+VM Ware
+
+___________ is more secure than ___________
+
+Container, VM
+
+Hypervisor, VMWare
+
+VMWare, Hypervisor
+
+VM, Container--co
+
+Puppet was initially released in the year
+
+2007
+
+2015
+
+2017
+
+2005--co
+
+Infrastructure provisioning can be done with ____ tools
+
+Server Configuration
+
+Infrastructure Definition--co
+
+Containerization
+
+Templating
+
+Chef was initially created by
+
+Jesse
+
+Robbins
+
+Adam Jacob--co
+
+Adam Jaqlin
+
+Docker is a tool written in
+
+Go--co
+
+Python
+
+Perl
+
+PowerShell Script
+
+OpenStack Heat is a tool written in ___
+
+Python--co
+
+Go
+
+BASIC
+
+JavaScript
+
+HP Public Cloud uses tool
+
+Chef--co
+
+Terraform
+
+Puppet
+
+Ansible
+
+Which of the following is not a lifecycle event of a server
+
+delete the server
+
+create a new server
+
+none of the options--co
+
+Package a server template
+
+update the server
+
+____________ supports all the AWS resources.
+
+Heat
+
+Terraform
+
+CloudFormation--co
+
+SaltStack
+
+___________ comes as part of Linux's Fedora distribution
+
+Chef
+
+CloudFormation
+
+Ansible--co
+
+Puppet
+
+Terraform
+
+In _________ model, the configuration server is checked periodically for updates.
+
+Both
+
+Pull--co
+
+Push
+
+You can use _________ to script your configuration file
+
+Perl
+
+DSL
+
+Ruby
+
+Python
+
+Any--co
+
+In _________ model, the configuration server automatically sends the updated configuration file if there is any change.
+
+Both
+
+Pull
+
+Push--co
+
+Data like ______ should not be stored in VCS
+
+Date
+
+Version
+
+Password--co
+
+Username
+
+Which is a core part of IaC?
+
+Testing
+
+Versioning--co
+
+Configuring
+
+Auditing
+
+Which is a CI tool here?
+
+Ansible
+
+Puppet
+
+Fork
+
+Bamboo--co

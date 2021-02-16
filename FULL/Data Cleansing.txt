@@ -1,0 +1,83 @@
+Ignoring missing values from your dataset is an easier and correct approach than updating the dataset with mean / median values
+May be correct...
+
+Data munging is
+A Process to clean messy data
+
+Can a technically correct dataset still be incorrect for data analysis?
+Yes
+
+
+Binning is a method to manage data
+noisy data
+
+
+Data cleaning is the most time consuming process in data analysis
+True
+
+tail() function shows ___ by default
+6 rows
+
+print() is the recommended function to view the dataset
+No,Not....
+
+____ can be used to view data distribution of a single variable AND ____ can be used to view relation between 2 variables
+hist(),plot()
+
+Consider cars built-in R dataset and find out what is the median of dist variable
+36.00
+
+Using head function, identify the 8th row of mtcars built-in dataset
+10 26
+
+
+Identify the function which is part of dplyr package that helps in previewing the data.
+glimpse()
+
+
+In a tidy data set ___ forms a row and ____ forms a column
+Observation,Variable
+
+
+A dataset with columns (country, disease, #ofdeaths) has values Row1 - (CONGO, TB, 28) Row2 - (SPAIN, TB, 2) Row3 - (EGYPT, TB, 0). Is this is a tidy or messy dataset.?
+Tidy Data
+
+
+filter() is for selecting columns and select() is for selecting rows
+False
+
+
+___ allows to make new variables
+mutate()
+
+
+Which function(s) of dplyr would you use to first subset the columns and then sort them on a particular column?
+filter(),arrange()
+
+
+What is the class of sys.date() and sys.time()
+POSIXct
+
+Can a variable of factor type be converted to a date type
+No
+
+
+If value of time is system time which is 2016-12-21 18:33:31 UTC. What is the output for time+60
+18:34
+
+
+What are the possible outlier treatment
+all the options
+
+Identify the correct ones
+separate() makes
+
+
+____ is similar to separate() function
+extract()
+
+Which one is NOT a special value in R
+None of the options
+
+____ can be used to identify the existence of a matching pattern in a string
+str.detect()

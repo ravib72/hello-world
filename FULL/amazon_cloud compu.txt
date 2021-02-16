@@ -1,0 +1,114 @@
+The committee which designs the standards & characteristics for the cloud computing is--------->NIST
+
+Cloud-computing providers offer their services as ______________---------->sass,pass,iass
+
+I have some private servers on my premises, also I have distributed some of 
+my workload on the public cloud, what is this architecture called?---------->Hybrid
+
+_____ mixes the simplicity of ________ with the power of _____, to great effect.--->pass,sass,iass
+
+Developers and organizations all around the world leverage ______ extensively--------->pass
+
+
+------------------------------------------------------------------------------------------------------------
+
+Does Stopping and Terminating instances have same effect---------------->false 
+
+What are the measures to be taken to ensure maximum availability----------------->auto scaling
+
+How can you integrate IAM with data centers security------------------>SAML
+
+All Amazon services supports region?-------------------->false 
+
+Which is more secure?---------->vcp
+
+What does ARN stand for?----------->amazon resource name 
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Objects in S3 can be delivered through Amazon CloudFront---------->true	
+
+
+When to choose C4 instances?-------------> High & Moderate 
+
+EC2 stands for--------------->elastic compute cloud
+
+Difference between instance store and EBS----------->once
+
+Route S3 can be used to route users to infrastructure outside of AWS--------->true
+
+In S3, what does RRS stand for?---------->redused redundancy storage 
+
+What is the maximum length of a file name in S3?------------>utf-8 1024
+
+Which AWS services will you use to collect and process e-commerce data for near real-time analysis?--->both 
+
+How do you access data on Elastic block storage?------>EC2 
+
+How will you secure the data at rest in EBS------------> restrict 
+
+Only 1024 objects can be placed on S3 bucket-------------->false
+
+Which of the following is not true about Amazon Glacier---------->secure & durable 
+
+What’s the maximum size of the S3 bucket?------------------>5TB 
+
+What does S3 stand for?--------------->simple storage service 
+---------------------------------------------------------------------------------------------
+
+
+your are using s3 bucket through------------->utilize,ACLs,user
+
+What are the uses of Amazon Glazier------------->infrequent & Archive
+
+Amazon S3 is a,------------->key based 
+
+Why do you make subnets?-----------> large no of hosts
+
+What is an AMI?------------->Amazon machine image
+-------------------------------------------------------------
+
+What metrics can be monitored through cloudwatch without being charged?------------>disk ,cpu,data 
+
+Which service in AWS allows you to create and delete stacks of AWS resources 
+which are defined in templates?-->cloud formatin
+
+Which of the following is not true about Elastic Load Balancing---------->can be enabelled 
+
+
+Amazon CloudFormation is a:------------->Deployment & manage 
+
+Autoscaling is enabled through------------->cloud watch
+
+--------------------------------------------------------------------------------------------------------
+
+
+Which of these services will help in better availability______--------------->SNS & SES
+
+
+Which of these services are used to distribute content to end users 
+using a global network of edge locations?------->cloud frount
+
+A highly available and scalable domain name system web service--------->Amazon route 53
+
+You are serving content from CloudFront. 
+Which of the following happens to an end user's request?------->closest edge location 
+
+What happens when content is not present at an edge location and a request is made to it?------>cloud front delivers
+
+
+How can you restrict the access to the contents delivered in cloudfront?-------->origin access
+
+
+Which of the following is not correct about CloudFront?---------->origin server 
+
+
+Which is a fully managed desktop computing service-------->Amazon work spacec
+
+Does Amazon support region based services on all Services?---------->false
+
+
+ Certain traditional software vendors to market solutions as----------->cloud compuw
+
+When will you incur costs with an Elastic IP address (EIP)?------->when EIP allocated

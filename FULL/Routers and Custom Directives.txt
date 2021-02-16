@@ -1,0 +1,111 @@
+what is the purpose of the $location service?
+It enables changing the path of the application in order to perform navigation  
+
+With _, views and routes are tied to the application url
+ngRoute
+
+Which is the correct syntax format for constructing a route and binding a route parameter?
+<a ng-href=”#/detail/{{food.id}}”>Click for more.......</a> 
+
+Which function best describes routing?
+Loads templates into the ng-view element
+
+The…………… service is not able to function properly if the current URL is outside the URL given as the base href.
+$location
+
+Complete the code to set up the locale controller to use the local service function LocaleController($scope,$locale) { $scope.myDate=Date.Now(); $scope.formattedDate=?.DATETIME_FORMATS.fullDate; }
+$locale 
+
+Is router part of core Angular script file?
+No. It is not. One need to download and include the router script file exclusively 
+
+The directive………………that marks where the router should display a view.
+Ng-outlet 
+
+what is a feature of the $anchorScroll service?
+Enables automatic scrolling in parts of a page 
+
+Which function is used to set up a default route?
+Otherwise() 
+----------------------------------------------------------
+Which UI-Router directive allows you to create links connecting to your states?
+Ui-sref
+
+____ implements routing based on the state of the application where as ______ implements routing based on the route URL
+ui-router, ngRoute
+
+which of the following variables can be injected into a function once you have included ui-router in the list of dependencies for your module?
+$urlRouterProvider AND $stateProvider
+
+What is not a characteristics of a UI-Router?
+It does not allow the use of multiple subviews on a page
+
+For using ui-sref, what is required
+The state to be the activated
+-------------------------------------------------------------
+Which of the directives allow the animation move?
+ng-repeat
+
+When does ngAnimate checks for animation in the application?
+During run time
+
+
+Every built-in directive in AngularJS support animations.
+False
+
+Can animations be achieved with custom directive?
+Yes. Animations are possible with custom directives using $animate service
+
+----------------------------------------------------------------------
+When creating an AngularJS directive, which character is used with the restrict option to specify that only the attribute name should be matched?
+A 
+
+A ___ is a javaScript factory function that holds a set of instructions for the HTML compiler for defining a specified behavior of a DOM element.
+Directive
+
+Which feature best describes the template property?
+The template property is used for very small templates 
+
+A ………. is a behavior which should be triggered when specific HTML constructs are encountered during the compilation process
+Directive
+
+In AngularJS, ………….. is an Angular service which traverses the DOM looking for attributes.
+Compile 
+
+which feature best describes the $compile service?
+Creates new HTML elements and attributes
+
+
+------------------------------------------
+States are defined using service
+$stateProvider
+
+The params for the currect state be accessed in a controller using
+$stateParams 
+
+…………….Configures a Router with RouteDefinitions, each mapping a URL path to a component.
+RouteConfig
+
+ngAnimate module is defined in which library?
+angular-animate.js 
+
+$animate can be used in a directive
+True
+
+……………………must be called on a scope when it is desired for the scope and its child scopes to be permanently detached from the parent
+$destroy()
+
+Which is not true about directives?
+Code can be modularized based on the behavioral functions (wrong)
+A single directive can handle multiple functionalities
+One can create repeatable code
+Keeps Angular scripts and HTML page less messy
+
+What is the best scope to be used for reusable directives
+Parent scope
+Root scope
+Inherited scope (wrong)
+Isolate scope
+
+Inside your MainCtrl class, you want to make a request to the server. Complete the code segment you would use to do this by providing the appropriate service. ……………… .get($scope.url).success(function(result,status.headers.config) { console.log('GET SUCCESS'); console.log(result); $scope.result1=result['data']; });
+$post (wrong)

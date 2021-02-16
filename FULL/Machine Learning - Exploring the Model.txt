@@ -1,0 +1,397 @@
+1,
+____________ controls the magnitude of a step taken during Gradient Descent
+SR(wrong)
+
+2,
+Cost function in linear regression is also called squared error function.
+T
+
+3,
+How are the parameters updates during Gradient Descent Process ?
+One at a time(wrong)
+Simultaneously/seq
+
+4,
+For different parameters of the hypothesis function we get the same hypothesis function.
+F
+
+5,
+Problems that predict real values outputs are called ?
+Regression
+
+6,
+The objective function for linear regression is also known as Cost Function.
+T
+
+7,
+What is the process of subtracting the mean of each variable from its variable called ?
+MN
+
+8,
+Output variables are known as Feature Variables .
+T
+
+9,
+The result of scaling is a variable in the range of [1 , 10].
+F
+
+10
+What is the process of dividing each feature by its range called ?
+FS
+11,
+What is the Learning Technique in which the right answer is given for each example in the data called ?
+SL
+
+12,
+ function is used as a mapping function for classification problem.
+Convex
+
+13,
+Overfit data has a high bias
+T
+
+14,
+Reducing the number of features can reduce overfitting
+T
+
+15,
+I have a scenario where my hypothesis fits my training set well but fails to generalize for test set. What is this scenario called ?
+OF
+
+16,
+ is the line that separates y = 0 and y = 1 in a logistic function.
+DB
+
+17,
+the error is determined by getting the proportion of values miss-classified by the model
+Classification
+
+18,
+For an overfit data set the cross validation error will be much bigger than the training error.
+T
+
+19,the error is calculated by finding the sum of squared distance between actual and predicted values
+Regression
+
+20,
+Where does the sigmoid function asymptote ?
+0/1
+
+21,when a ML Model has high bias, getting more training data will help in improving the model
+F
+
+22,
+Problems where discrete valued outputs predicted are called ?
+CP
+
+23,
+What measures the extent to which the predictions change between various realizations of the model ?
+Variance
+
+24,What is the name of the function that takes the input and maps it to the output variable called ?
+HF
+
+
+Machine Learning - Exploring the Model
+Welcome to the course on Machine Learning - Exploring the Model
+
+The objective of this course is to familiarize you with the steps involved in 
+fitting a machine learning model to a data set
+
+You will learn all the concepts involved in building a Machine Learning Model, 
+from Hypothesis function that represents a model for a given data-set to evaluation of the hypothesis for a general case
+
+ML Model Representation
+
+Suppose you are provided with a data-set that has area of the house in square feet and the respective price
+
+How do you think you will come up with a Machine Learning Model to learn the data and use this model to predict the price of a random house given the area?
+
+You will learn that in the following cards.
+
+House Price Prediction
+We have a data-set consisting of houses with their area in sq feet and their respective prices
+
+Assume that the prices are dependent on the area of the house
+
+Let us learn how to represent this idea in Machine Learning parlance
+
+ML Notations
+The input / independent variables are denoted by 'x'
+
+The output / dependent variable(s) are denoted by 'y'
+
+In our problem the area in sq foot values are'x'and house prices are 'y'.
+
+Here change in one variable is dependent on change in another variable. This technique is called Regression.
+
+Model Representation
+Loading image..
+The objective is, given a set of training data, the algorithm needs to come up with a way to map 'x' to 'y'
+
+This is denoted by h: X ? Y
+
+h(x) is called the hypothesis that does the mapping.
+
+Model Representation Explained
+This video outlines the model representation process in Machine Learning.
+
+Why Cost Function ?
+You have learnt how to map the input and output variables through the hypothesis function in the previous example.
+
+After defining the hypothesis function, the accuracy of the function has to be determined 
+to gauge the predictive power . i.e., how are the square feet values predicting the housing prices accurately.
+
+Cost function is the representation of this objective.
+
+Demystifying Cost Function
+
+In the cost function,
+
+m - number of observations
+
+y^- predicted value
+
+y - actual value
+
+i - single observation
+
+The objective is to minimize the sum of squared errors between the predicted and actual values.
+
+Cost Function Intuition
+Loading image..
+The points on the line are the predicted values represented by y^
+
+The other points are the actual y values
+
+Why Gradient Descent ?
+You have learnt how to
+
+Represent a machine learning model
+
+Represent the accuracy of the model using cost function
+
+The next step is to determine the parameters that best fit the data.
+
+Learning Gradient Descent will help you with that.
+
+Gradient Descent Explained
+Loading image..
+Imagine the error surface as a 3D image with parameters theta0 and theta1 on x and y axis and Error value in z axis
+
+The intuition behind gradient descent is to choose the parameters that minimize the cost as low as possible
+
+Descending down the cost function is made in the direction of the steepest descent
+
+The learning parameter(alpha) decides the magnitude of each step
+
+Gradient Descent Explained
+This video explains the process of Gradient Descent.
+
+Convergence
+Loading image..
+If the learning rate is small then the convergence takes time
+
+If the learning rate is high the values overshoot
+
+Initializing the right learning rate is very important.
+
+Multiple Features
+For theoretical purposes, single variable is used for illustration. But practically, 
+multiple features / independent variables are used for predicting a variable.
+In the first example you saw how housing prices were predicted based on their sq feet value.
+ But ideally problems can get more complex and have multiple features required to map the output.
+
+Hypothesis Representation
+
+?0 could be the basic price of a house
+
+?1 could be the price per square feet
+
+?2 the price per level
+
+x1 could be the area of square feet in the house
+
+x2 could be the number of floors
+
+Why Feature Scaling?
+When there are multiple features and each feature variable has a large magnitude, 
+combining them into a model and predicting a value becomes computationally intensive.
+
+Scaling comes to our help in these scenarios.
+
+What is Feature Scaling?
+In scaling, each feature / variable is divided by its range (maximum minus minimum)
+
+The result of scaling is a variable in the range of 1
+
+This eases the computation intensity to a considerable extent
+
+Mean Normalization
+In mean normalization , the mean of each variable is subtracted from the variable
+
+In many cases, the mean normalization and scaling are performed together
+
+Classification
+So far we have seen an example where we have predicted one variable depending on other variables. Machine Learning has also been used for classification.
+
+You will learn that in this topic.
+
+Classification Explained
+In classification unlike regression, we need to discern one group of data from another
+
+The idea is to get the likelihood of a feature falling into a specific class
+
+For example when we try to classify an e-mail it falls into one of the two buckets viz, spam or not spam
+
+Binary Classification
+In a binary classification problem, the dependent variable y can take either of the two values 0 or 1. (This idea can also be extended for a multiple-class case)
+
+For instance, if we are trying to build a classifier for identifying tumour from an image, then x(i) may be some feature of image, and y may be 1 if that feature has a cancer cell and 0 otherwise
+
+Hence, y?{0,1}.
+
+
+
+Interpreting Logistic Regression
+The mapping function h?(x) gives us the likelihood that the output is 1.
+
+For example, h?(x)=0.65 gives us a probability of 65% that our output is 1.
+
+The likelihood that the prediction is 0 is just the complement of the likelihood that it is 1.
+
+Decision Boundary
+Loading image..
+The decision boundary or threshold is the line that separates the area where y = 0 and where y = 1
+
+The hypothesis function creates the decision boundary
+
+Optimal Threshold
+Choosing the right threshold value is important in classification.
+
+Lower threshold might lead to False Positives
+
+Higher threshold leads to many cases not classifying properly
+
+Why Evaluate the Hypothesis ?
+After defining
+
+Hypothesis function that maps input to output
+
+Cost function that represents the prediction error
+
+Gradient descent that chooses the right parameters
+
+We have built the model.
+
+It is necessary to test this model on a new set of data to evaluate the model fitting process.
+
+Tips on Evaluation
+After Fitting the data and viewing the results you can try out something
+
+Adding more training sets
+
+Try going for smaller sets of features
+
+Try adding new features
+
+Try going for polynomial features
+Evaluating Hypothesis
+Each Machine Learning Algorithm has its own way of being evaluated.
+
+For Regression the error is calculated by finding the sum of squared distance between actual and predicted values
+
+For Classification the error is determined by getting the proportion of values mis-classified by the model
+
+Model Selection
+Model Selection is a part of the hypothesis evaluation process where the model is evaluated on test set to check how well the model generalizes on new data sets.
+
+Train
+One way to break down our dataset into the three sets is:
+
+Training set: 60%
+
+Cross validation set: 20%
+
+Test set: 20%
+
+
+Quick Fact
+Use the training set for finding the optimal parameters for the cost function
+
+Use the validation set to get the polynomial with the least error
+
+Use the test set for estimating the generalization error
+
+Fitting Visualized
+Loading image..
+You can see three different mapping functions for the same data .
+
+Example 1 - Under-fitting with high bias
+
+Example 2 - Proper fit
+
+Example 3 - Over-Fitting with High Variance
+
+Tips on Reducing Overfitting
+Reduce the number of features:
+ - **Manually select** which features to keep.
+
+ - A **model selection** algorithm can be used 
+Regularization
+
+Suggestion is to reduce the magnitude of the parameters
+
+Regularization works well when there are lot of moderately useful features
+
+
+Bias Vs Variance
+How are the predictions far off from the actual values is measured by Bias
+
+To what extent are the the predictions for a given point change between various realizations of the model is measured by variance
+
+Both these values are essential for analysis while selecting an optimum Machine Learning model
+
+Bias vs Variance continued
+If there are bad predictions, need to distinguish if it is due to bias or variance
+
+High bias leads to under-fitting of data and high variance leads to over-fitting
+
+The need is to find an optimal value for these two parameters
+
+Learning Curves Intro
+Training an algorithm on a small number of data points will have almost zero errors because we can find a quadratic function that maps exactly those points correctly
+As the training set gets large and more complex , the error for a quadratic function increases
+
+The error value will reach a constant only after a certain number of training sets
+
+High Bias
+
+Low training set size: causes Training set error to be low and cross validation set error to be high
+Large training set size: causes both training set error and cross validation set error to be high with validation set error much greater that training set error.
+
+So when a learning algorithm is has high bias, getting more training data will not aid much in improving
+
+High Variance
+
+Low training set size: Training set error will be low and Cross Validation set error will be high.
+Large training set size: Training set error increases with training set size and Cross Validation set error continues to decrease without leveling off. Also,Training Set Error less than cross validation set error but the difference between them remains significant.
+If a learning algorithm has high variance, getting more training data will help in improvement
+
+More tips
+Getting more training data : Solution for high variance problem
+
+Trying smaller number of input features: Solution for high variance
+
+Adding new input features: High Bias problem can be fixed
+
+Adding new polynomial features: High Bias Problem can be fixed
+
+Model Complexity Effects
+Lower-order polynomials have very high bias and very low variance. This is a poor fit
+
+Higher-order polynomials have low bias on the training data, but very high variance. This is over fit.
+
+The objective is to build a model that can generalize well and that fits the data well.
+
+

@@ -1,0 +1,96 @@
+Which function can be used when a vector needs to be split into groups defined by a classifying factor, compute a function on the subsets, and return the results?
+tapply
+
+Which function is very similar to lapply?
+sapply
+
+Applying lapply function on a matrix returns
+list
+
+A hospital data contains patient's age and treatment they are undergoing. Which function can be used to find average of patients undergoing each of the treatments?
+tapply
+
+Which function is used over the margins of an array
+apply
+
+What will the following lines of code return
+x <- matrix(1:18, 6, 3)
+apply(x, 2, sum)
+vector of 3 elements
+
+For a given matrix mat, how do you increment every element of the matrix by 3 and return a vector. (I) sapply(mat, function(x,y) sum(x)+y,y=3) (II) sapply(mat, function(x) sum(x)+3)
+I & II
+
+The function read.csv() imports data into
+data frame
+
+Which package is used to import data from a SQL server to R?
+RODBC
+
+The function write.csv() exports data into a file. However, this function by default adds rownames to the file. Which argument can be used to turn off addition of rownames?
+rownames=F
+
+nrows and skip arguments in the read.table() command can be used to get
+All the options
+
+Which command can be used to import text files in R
+read.table()
+
+tbl is an extension of:
+data frame
+
+dplyr is useful for:
+All options
+
+Which of the following functions can be used to find the number or rows and columns in a dataset?
+dim
+
+Which of the following functions does not list the total number of observations in a dataset?
+head
+
+Which of the following functions lists all columns in a dataset with few values from each column?
+glimpse
+
+In the hflights dataset, how many flights were cancelled in the month of January 2011
+209
+
+What is the average mileage of a car in the mtcars dataset
+20....
+
+In the iris dataset, how many flowers of species setosa havePetal.Length/Petal.Width ratio of less than 10.
+45
+
+In the iris dataset, how many flowers havePetal.Length/Petal.Width ratio of less than 10
+145
+
+
+In the mtcars dataset, how many cars provide a mileage of less than 20 mpg?
+18
+
+
+dplyr never prints row names since no dplyr method is guaranteed to preserve them.
+true
+
+If x and y are two tbls, which of the following joins return all rows from x and y irrespective of matching values?
+full join
+
+If x and y are two tbls, which of the following joins return all rows from x where there are matching values in y, and all columns from x and y
+inner join
+
+If x and y are two tbls, which of the following joins return all rows from x where there are not matching values in y, keeping just columns from x?
+anti-join
+
+Join functions return results of data type
+data frame
+
+If x and y are two tbls, which of the following joins return all rows from y, and all columns from x and y?
+right join
+
+If x and y are two tbls, which of the following joins return all rows from x where there are matching values in y, keeping just columns from x?
+semi join
+
+Data table is mainly used for aggregation
+False
+
+Which of the following is multivariate version of lapply?
+lapply

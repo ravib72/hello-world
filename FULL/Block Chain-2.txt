@@ -1,0 +1,59 @@
+﻿Answers::(Block Chain)
+Blockchain which is popularly known as ‘for the people, by the people and of the people” is ___________.---public
+Bitcoin network would make it impossible to bypass the traditional financial intermediaries.-- false
+The three concepts used to explain the foundation of blockchain are __________________. -- business n/w,digital assets,ledger
+Private Blockchain is a de-centralized type of Blockchain?---false
+The value of coins ( litecoin, bitcoin) is same at a particular time.--false
+Encryption reduces data security?--false
+The value of cryptocurrency is independent of market conditions such as supply and demand.--false
+HASH can be used to validate the input?--true
+Name the first cryptocurrency with computing power contribution?--gridcoin
+We can buy cryptocurrency.--false
+The two types of cryptography are ______________.--asyymmetric,symmetric
+Which among the following is the most flexible cryptocurrency?--ether
+encrypted text---cipher text
+We may use bitcoin for purchasing merchandise as well?--true
+The output of Hashing is popularly known as _______ . Digest
+The sender and the receiver in a transaction provide miners with a fee.--false
+Which among the following are the advantages of using Bitcoin?--all
+Bitcoins can be purchased in exchange of services. --true
+The rate of generation of new bitcoins is constant.--false
+The higher the computational power, the lower is the difficulty in mining.--false
+Ethereum is a digital currency --false
+Which platform could gain its best use case from supply chain industry? --hyperledger
+Ether provides greater flexibility than Bitcoin does.--true
+Which of the following platform(s) provides a modular architecture?--hyperledger
+New bitcoins are released every time a transaction is verified. --true
+Which platform could gain its best use case from financial service industry? --codra
+The first smart contract platform is _______. ---ehtereum
+China and Russia were amongst the first few countries to promote bitcoin in their economy? --false
+One symbol could be substituted with a key using substitution cipher.---false
+A transaction without verification in bitcoin could be fastest accomplished in how much time?--instanteous
+Number of bitcoins to be ever created would depend upon demand-supply in the market? --false
+BlockChain provides ___________ database of every transaction involving value. -- open decentralized
+Bitcoin is an example of which type of blockchain?---public
+There is no cryptographic protocol that can be used to secure HTTP connection.--false
+Blockchain could soon replace central banks? --true
+Consortium Blockchain provides a faster and more protected ecosystem than a Private Blockchain? ---true
+Coincap is a budding cryptocurrency.--false
+Blockchain offers identity authentication through a visible ledger and thus have greater potential for cyber risk.--false
+Private Blockchain allows organizations who have privacy and compliance regulations to implement Blockchain.--true
+Blockchain could prevent robustness and transparency in the post – trade environment.--false
+Chose the correct options(s).--fixed size
+Currencies other than Bitcoin such as Litecoin and Dash are popularly known as ___________.--altcoins
+_______ records all the transactions in a blockchain.--Block
+One bitcoin could be divided down to ____ decimal point?--8
+Bitcoin is an example of which type of blockchain?--public
+Who is a miner?--computers that validate
+Bitcoin is __________ --public to public currency(wrong),peer ro peer
+Smart Contracts are reversible.--false
+Crypto analysis is used ___________.--to find
+How many types of blockchains have emerged after bitcoin introduced blockchain to the world?--three
+Bankchain is an example of __________-- private blockchain
+Where can you buy a cryptocurrency?--at a private transaction
+Ripple is an example of _________----federated blockchain
+Hyperledger allows us to customize the visibility of a transaction in a blockchain.---true
+In asymmetric key cryptography, the private key is kept by _________.--everyone in the network
+_____________ is popularly known as DLT with a difference.--etherum
+Both ________ and ________ automatically check your previous transactions to make sure you have enough bitcoins to send.--ledger and your wallet
+Digital assets must always be tangible.--false

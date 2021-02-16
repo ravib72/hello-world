@@ -1,0 +1,55 @@
+If one set of vectors can be expressed as a linear combination of 
+other set of vectors, they are called---- linearly dependent
+
+Consider the following 2 X 2 square matrices A , B and C. (A+B) + C = A + (B + C) 
+signifies which property----->associativity
+
+upper triangular
+
+What is the shear transformation for the vector--->  2/5 
+
+Every vector in 2D space is associated with multiple pairs of number.---> false
+
+
+For a given vector in 2D space, stretching it by a value of 2 is called--------->scaling 
+
+
+________________ vectors are vectors of length 1 pointing in each of the (x,y,z) axes respectively.----> unit bias 
+
+The set of all possible vectors you can reach with the linear combination of two vectors is called---> linear combined 
+
+
+The _____________ of a vector space is a set of linearly independent vectors that span the entire space.--->bias 
+
+
+------------------------------------------------------
+
+In a linear transform, when the orientation of space is inverted the determinant value is negative.-----> true 
+
+let u*v =(6,0,-2)-----> (16048) 
+
+Consider two square matrices A and B with dimension m X m. AB = BA----->false 
+
+____________________ is the span of the columns of your matrix.---->coloun space 
+
+  
+_________________ is the number of dimensions in the output of a Transformation.------>rank 
+
+
+let K= -----> 400-1 
+
+u.v ----->  -12
+
+
+What is the determinant of the matrix A ---->24 
+
+Consider two matrices 2177 
+
+What is the transpose of the given matrix------>   734 
+
+Consider the matrix A ----->  -6  
+
+
+-----------------------------------------
+
+

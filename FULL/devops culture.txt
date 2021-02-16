@@ -1,0 +1,83 @@
+____________ is the primary measure of progress according to Agile Manifesto.-----> working software
+
+Product Management is one of the 7 DevOps practices------>false
+
+Which of the following is a value of DevOps----> deleviry pipeline
+
+DevOps is the union of ___________ , ____________ and __________ to enable continuous delivery 
+of value to end users.----->people, process,product
+
+----------------------------------------------	
+
+Understanding of what we are deploying and how we are deploying comes under which habit of DevOps---> configaration management
+
+DevOps encompasses culture and collaboration------>true
+
+Improve quality and performance of the applications is a major driver for switching to DevOps--->true
+
+DevOps encompasses----->automation
+
+---------------------------------------------
+
+Automation empowers frequent releases and self-service---->true
+
+Which of the following is not a benefit of Automation in DevOps ?----->implans mannual errors
+
+
+Change Fail rate is an Agility performance indicator----->false
+
+
+____________ measures complexity of the code and the efficiency of the development systems------> change lead time
+
+What is the desire in the organization to push things to production termed as ?------->live site culture
+
+Which of the following is a benefit of small releases ?-------->faster feedback
+
+------------------------------------------------
+
+Which of the following can slow down your ability to deliver code effectively ?-----> technical 
+
+
+____________ enables continuous value delivery------>automation
+
+What is the metric used to measure how quickly are we deploying ?-----> Deployment frequencyy
+false
+
+Minimize conflicts when merging code should be one of your goals while performing branching.--->true 
+
+------------------------------------------------
+
+
+Continuous Delivery focuses on manual delivery pipeline.----->false
+
+Continuous Delivery encourages configuration as code.------->true
+
+
+_____________ is a software engineering approach in which teams produce software in short cycles, 	
+ensuring that software can be reliably released at any time------->continious delivary
+
+During the Continuous Integration process unit tests are executed during the build .----->true
+
+_____________ ensure that code deployed to production environment is not necessarily released to all end users---->feature flaga
+
+
+-----------------------------------------------
+
+
+______________ testing tests components together in scenarios.------>intigration
+
+It is OK if all the environments are not consistent in a DevOps lifecycle------>false
+
+
+Treating Infrastructure as a flexible resource is a benefit of Infrastructure and Configuration as Code----->true
+
+In Manual Integration Testing Human Intelligence is waged against the application-------->true 
+
+
+_____________ is the automated system used for continuous integration (Build Code , Create Packages and Run Code.-----> build pipeline
+
+
+------------------------------------------------------
+
+
+

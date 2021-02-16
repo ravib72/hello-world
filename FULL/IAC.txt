@@ -1,0 +1,50 @@
+When a server requires special configuration beyond that covered by automated deployment scripts, it is called
+Snowflake Server
+
+__________ configuration is faster than ___________ configuration
+Automated, Manual
+
+For quick configurations, the servers must be
+Identical
+
+_________ causes more failure than _________
+Human Error, Hardware failure
+
+IaC simplifies the tasks of
+IT team
+
+Which is directly proportional to your business?
+Availability
+
+IaC is frequently referred to as, _____________
+Programmable infrastructure
+
+A challenge that grows over time is, __________
+Configuration Drift
+
+When we don't record the adhoc changes of hardware/software, it is called the
+Configuration Drift
+
+
+There is no server in the server-less architecture
+False
+
+Infrastructure provisioning can be done with __________________ tools
+Infrastructure Definition
+
+Which of the following is not a lifecycle event of a server
+Package a server template
+
+___________ shares the OS kernel of the host system.
+Container
+
+____________ supports all the AWS resources.
+CloudFormation
+
+____________ is an open source tool developed by HashiCorp
+Terraform
+
+Which of the following is an infrastructure definition tool?
+Terraform
+
+Which of the following is a configuration definition file?

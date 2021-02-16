@@ -1,0 +1,46 @@
+Unsupervised learning focuses on understanding the data and its underlying pattern.----->true
+
+Which learning is the method of finding structure in the data without labels.--------->Unsupervised
+
+What is a preferred distance measure while dealing with sets ?--------->jaccard
+
+Members of the same cluster are far away / distant from each other .----------->false
+
+____________ of a set of points is defined using a distance measure --------->similarity 
+
+Each point is a cluster in itself. We then combine the two nearest clusters into one. What type of clustering does this represent ?----->agglorimative 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+The ______ is a visual representation of how the data points are merged to form clusters.----------->dendogram 
+
+What is the overall complexity of the the Agglomerative Hierarchical Clustering ?--------->oN3 
+
+___________ of two points is the average of the two points in Eucledian Space.---------->centroid 
+
+A centroid is a valid point in a non-Eucledian space .---------->false 
+
+___________ is the data point that is closest to the other point in the cluster.--------->clustroid 
+
+___________ measures the goodness of a cluster------------>cohesion  
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+_____________ is when points don't move between clusters and centroids stabilize.-------->convergence
+
+Sampling is one technique to pick the initial k points in K Means Clustering---------->true
+
+___________ is a way of finding the k value for k means clustering.--------->cross validation
+
+The number of rounds for convergence in k means clustering can be lage--------->true  
+
+Hierarchical Clustering is a suggested approach for Large Data Sets-------->false 
+
+
+--------------------------------------------------------------------------------------------------
+
+
+hclust
+
+kmeans()

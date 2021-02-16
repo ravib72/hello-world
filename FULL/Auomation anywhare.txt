@@ -1,0 +1,28 @@
+Automation anywhere is not capable of working with ------> hand writtwen
+
+It is optional to provide CSV path for pattern based data extraction in web recording.----->true 
+
+Automation anywhere provides inbuilt exception handling capabili--------> false 
+
+Following operations can be performed using string operation command?----->all the above
+
+Using Email automation command, we can directly get emails from the server without
+having interface (Email client) like Gmail and Outlook.-----> false 
+
+
+22222222
+
+For uploading a bot to the control room we need to have access to it -------> false
+
+In Automation anywhere task editor window, we can manually write the lines of code without using a single AA command.-->false
+
+It is optional to provide CSV path for pattern based data extraction in web recording.----->true 
+
+
+Pdf integration command cannot be used for-----> converting pdf to word 
+
+
+333333333
+
+
+From control room on which type of clients can we schedule tasks-----> runtime client

@@ -1,0 +1,75 @@
+autoencoders ----> dimention reduction
+
+autoencoders uses
+Data Compression
+Image Search
+
+Temporal data ---->RNN
+
+Recursive Neural Tensor Networks ---->speech recognition
+
+
+RTNS -----> vectors
+
+
+sequence of our put --->true
+
+All the Visible Layers in a Restricted Boltzmannn Machine are connected to each other----> false
+
+Why is the Pooling Layer used in a Convolution Neural Network?-----> Dimention reduction
+
+
+Restricted Boltzmann Machine expects the data to be labeled for Training.----- false
+
+What is the best Neural Network Model for Temporal Data?--->RNN
+
+What is the method to overcome the Decay of Information through time in RNN known as----> Gating
+
+The measure of Difference between two probability distributions is know as---> KL divergence
+
+
+All the neurons in a convolution layer have different Weights and Biases----> false
+
+A Deep Belief Network is a stack of Restricted Boltzmann Machines----- true 
+
+What are the two layers of a Restricted Boltzmann Machine called----- visible & hideen 
+
+Recurrent Network can input Sequence of Data Points and Produce a Sequence of Output---->true 
+
+A _________________ matches or surpases the output of an individual neuron to a visual stimuli.---- convolution 
+
+
+
+Name the component of a Neural Network where the true value of the input is not observed ----- Hidden layer
+
+A Shallow Neural Network has only one hidden layer between Input and Output layers-----> true 
+
+_______________ is a recommended Model for Pattern Recognition in Unlabeled Data ------> cnn
+
+Prediction Accuracy of a Neural Network depends on _______________ and ______________.----->weights & Bias
+
+What is the difference between the actual output and generated output known as------>output modulus****
+
+
+Data Collected from Survey results is an example of ___________________. ----->Structred data
+
+The rate at which cost changes with respect to weight or bias is called __________________. gradient
+
+Gradient at a given layer is the product of all gradients at the previous layers-----> True
+
+
+________________ works best for Image Data.-----> Convolution net
+
+Recurrent Networks work best for Speech Recognition. ------> true ****
+
+
+Support Vector Machines, Naive Bayes and Logistic Regression are used for solving ___________________ problems.-----> classification 
+
+Neural Networks Algorithms are inspired from the structure and functioning of the Human Biological Neuron.-----> true
+
+
+In a Neural Network, all the edges and nodes have the same Weight and Bias values.-----> false 
+
+Process of improving the accuracy of a Neural Network is called _______________.----->taaining
+
+Recurrent Neural Networks are best suited for Text Processing------> true 

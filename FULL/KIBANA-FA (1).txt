@@ -1,0 +1,226 @@
+Kibana - Data Exquisites
+===========================
+
+Is it necessary to use curl command while querying in Kibana?
+
+Yes, it is necessary.
+
+No, not necessary.--co
+
+Default location to run Kibana is _.
+
+localhost:0000
+
+localhost:8888
+
+localhost:5601--co
+
+localhost:5602
+
+If Elasticsearch is not visible via Kibana, what could be the problem?
+
+url should match to localhost:9200 if it has not been changed manually
+
+Both of these--co
+
+None of these
+
+elasticsearch.url is not set correct
+
+What can be created with the help of Kibana?
+
+Histograms
+
+Line Graphs
+
+All of these--co
+
+Pie Charts
+
+Kibana is an independent tool nothing to do with ELK stack.
+
+True
+
+False--co
+
+Which of the following is an appropriate query to be typed in search bar for getting all documents in which “state” equals “TX”?
+
+TX:state
+
+874
+
+State: 874
+
+state: TX--co
+
+Configuration file for Kibana is named as .
+
+Kibana.html
+
+Kibana.xml
+
+Kibana.txt
+
+Kibana.yml--co
+
+What is Kibana?
+
+A visualization tool--co
+
+Both of these
+
+None of these
+
+Elasticsearch Plugin
+
+You can only set the Index pattern once.
+
+False--co
+
+True
+
+
+Where can you access discover page in Kibana?
+
+Top left side below the Kibana Logo--c
+
+Right Side below the Kibana logo
+
+At the bottom right
+
+At the bottom left
+
+
+Can boolean operators like AND, OR etc. can be used in Lucene Query Syntax?
+
+Yes, it is used--c
+
+No, it is not used
+
+Filters may be ___.
+
+Positive
+
+Negative
+
+Both of these--c
+
+
+In bucket aggregation, buckets are created to store _.
+
+Indices
+
+All of these
+
+Documents--co
+
+Clusters
+
+
+Geohash is used to create buckets based upon .
+
+geo_point fields--co
+
+any field
+
+date/time field
+
+Visualize page is responsible for __.
+
+Creating Heatmaps
+
+All of these--co
+
+Creating charts
+
+Visualization of data
+
+Upon searching, the listing is done in chronological order which means ___.
+
+Oldest document first
+
+Any order
+
+Newest document first--co
+
+Which of the following is not a metric aggregation?
+
+Log--co
+
+Sum
+
+Min
+
+Count
+
+Discover is used for .
+
+Both of these--co
+
+For data search
+
+None of these
+
+Exploring the data
+
+Date histogram is performed on date/time values that are automatically extracted from documents.
+
+False
+
+True--co
+
+
+What are the steps to create a coordinate map?
+
+Timelion > Create a new visualization > Coordinate map > Select relevant Index.
+
+Visualize > Create a new visualization > Coordinate map > Select relevant index. --co
+
+New visualization > Coordinate map > Select relevant Index.
+
+We can show multiple dashboards in visualization page.
+
+True
+
+False--co
+
+What will Max Aggregation do?
+
+Return Max value from numeric fields present in each bucket---co
+
+Return any buckets max value
+
+Returns highest bucket value
+
+Can we save the visualizations we create in Kibana?
+
+Yes, we can save.--co
+
+No, but we can take screenshots.
+
+Anyone in the world can see the visualization with the help of the sharable link.
+
+Yes, anyone can view because it is meant to be shared
+
+No, only those clients having access to the Kibana can view--co
+
+Percentile ranks are used to calculate single or multiple percentile ranks.
+True--co
+
+False
+
+What is the function of Gauge?
+
+It indicates the status of metric in reference to a threshold value.--co
+
+It indicates the status of metric in reference to a threshold value.
+
+It indicates the status of a threshold value in reference to a metrics.
+
+Timelion is a .
+
+Kibana Performance Accelerator
+
+Time series data visualizer--co
+
+Only link connecting Kibana and Elasticsearch

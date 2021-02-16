@@ -1,0 +1,32 @@
+Answer  - Azure Virtual Machine, Answer in green are all correct –
+
+Azure Virtual Machines
+	
+A Standard_A7 virtual machine would be considered for	High Memory Entry Level	 
+Which of the following is supported on Azure virtual machines	Generation 1 virtual machines	 
+Which Windows Server feature(s) is / are not supported on Azure virtual machines	Multipath I/O and Network Load Balancing	 
+An Azure Standard_A4 virtual machines has ____ cores	8	 
+You have to create a custom virtual machine (VM). Also, you have to upload the VM to Azure. What is the first step to start	Create a VHD file	wrong
+Use the following command to create a virtual machine with Resource Manager 	New-AzureRMVM	 
+Which of the following is the file format for the Resource Manager template	JSON	 
+You are using the Set-AzureRMVMSourceImage command with the -Version parameter. You wish to ensure that you get the most current image. Which value should you use with the -Version parameter?	Latest	 
+You need to add data to Azure by using the Azure import service. What should you do?	Copy the VHD to container	Wrong
+Which of the following web applications can be deployed with Azure	All	 
+Microsoft supports OS that is past their End of Support date without a Custom Support Agreement (CSA).	TRUE	 
+Temporary files should be stored on which drive?	D	 
+Azure virtual machines disks are stored as	VHD files	 
+From the virtual machine blade of the Azure portal, you can do all of the following actions to your virtual machine, except?	View Logs	 
+Which components are examples of Infrastructure as a Service (IaaS) services	All	 
+What is the maximum number of virtual machines a cloud service can contain	50	 
+Scales sets are often integrated with which of the following selections?	All	 
+Public IP addresses are used for communication with	Public Facing	 
+What is the largest size for a Resource Manager template	1MB	 
+A _________ role is a virtual machine instance running Microsoft IIS Web server that can accept and respond to HTTP or HTTPS requests.	Web	 
+Which of the following is a valid reason to deploy a virtual machine (VM) on-premises in Hyper-V instead of in Azure?	you need to deploy a VM	wrong
+Which of the following element allows you to create and manage virtual machines that serve either in a Web role and a Worker role	VM	wrong
+Which of the following helps Azure maintain high availability and fault tolerance when deploying and upgrading applications?	Availability sets	 
+What is the maximum number of data disks supported by the Standard_A7 virtual machine	16	 
+You can associate a public IP address with all of the following except	Internal facing load balancers	 
+The Virtual Machine C: drive is a SATA drive that contains	operating system files	 
+Select the correct statement regarding the operating system upgrades of an Azure virtual machine?	All OS	Wrong
+Which tool is used to view details, such as IP addresses, about the virtual machines in a scale set?	Azure Resource Explorer	 

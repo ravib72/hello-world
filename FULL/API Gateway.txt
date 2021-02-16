@@ -1,0 +1,97 @@
+A variation for regular Gateway pattern is ______.
+Backend for front end
+
+_____ helps in reducing latency during service calls.
+Circuit Breaker
+
+Which service discovery requires an additional router?
+server side discovery
+
+_____ doesn't add anything new, it just re-exposes the existing API with some additional capabilities.
+API Proxy
+
+An API call will be received by the gateway and will route it to the appropriate microservice.
+True
+
+An API proxy can act as an API gateway.
+False
+
+Ideally an application should use _____ protocols.
+Both the options
+
+Gateway is capable of exposing a client to different APIs based on the devices.
+True
+
+
+API creation and management is done in ______.
+API Publisher
+
+Which of the following is not a function of analytic?
+Enforce Rate Limiting Policy
+
+To avoid the gateway from making calls to key management frequently use Caching.
+True
+
+Which one of the following is not an API developer/manager lifecycle?
+Explore
+
+The communication between the gateway and key management happens through a _____ call.
+Thrift
+
+Which one of the following is an API consumer lifecycle?
+Explore
+
+DoS Attacks are prevented using _______.
+Traffic management
+
+Rate limiting based on the HTTP header is not possible.
+False
+
+_____ are identified using _____.
+Resource, Endpoints
+
+All request will be proxied through Gateway, using their ______.
+Application Name
+
+_____ is a URL that communicates with the API.
+Endpoint
+
+
+Which of the following is not a rate limiting types?
+Bandwith specific Ratelimit
+
+Bandwidth is one of the reason to enforce Rate-Limiting.
+True
+
+A single service can have multiple endpoints.
+True
+
+Which of the following is not a HTTP method?
+UPDATE
+
+Which of the following is a type of documentation?
+URL
+
+Which of the core modules of Swagger helps in creating Interactive documentation?
+Swagger UI
+
+API Documentation can be added using ______.
+API publisher
+
+Which of the following is not an API Life-cycle?
+Subscribed
+
+Deprecated API can still be used.
+True
+
+Swagger UI creates Documentation based on API Parameters.
+True
+
+It is possible to test an API without subscribing.
+True
+
+
+
+
+
+

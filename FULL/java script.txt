@@ -1,0 +1,123 @@
+What is the ideal place to load the external JavaScript file in your HTML document------------>towards the end of the body
+
+Is the following a valid variable definition? var 100apples------------->no
+
+What is true about variables---------->variables are case sen
+
+What option would you specify when inserting code in a web page? script type="____"------------>text/java script
+
+Is the following a valid variable assignment var product cost = 3.45------------>no space
+
+You want to create an alert. Select the correct one------------>alert he said 
+
+JavaScript has to called inside ________ tags------------------>script
+
+To display whether a value is a number or not, ____ is used---------------->isNAN 
+
+Select the statement that has correct JavaScript syntax--------------->console.log  
+
+
+--------------------------------------------------------------------------------------------
+
+What is the output for code A and B?-----------------> 10,11 
+
+What is the value of C? var a = 100; var b = "10"; var c = a + b;------------>10010 
+
+Which of the following are not valid in JavaScript?---------->"my name is "harry"" *****
+
+isNan function returns ______ if the argument is not a number otherwise it is ______------------>true/false 
+
+Which statement will return the value false?------------> 20=====20
+
+Multiple variables can be created and initialized in a single JavaScript statement--------------->true 
+
+----------------------------------------------------------------------------------------------------------------------
+
+____ allows you to loop through a block of code as long as the specified condition is true.------------>while
+
+____ is used to exit a loop early.--------------->break
+
+___________ is a pretest loop that will execute until the value of z equals 10---------------->while
+
+---------------------------------------------------------------------------------------------------------------------------
+
+In multidimensional array mySubject, which of the following will allow assigning the value 100 in position 5 of the third mySubject array?------>my subject 2 4 
+
+In JavaScript, object is a container of properties and functions. Properties are identified by ____ and behavior is identified by _____
+
+attributes, variables-------------------------->variables, functions
+
+To retrieve the day of the month from the Date object, which is the code to select?var date_obj = new Date(2016,1,1);------------------>object.get date   
+
+What is true about array----------->can have combination  
+
+Can arrays in JavaScript be extended?-------->yes they can be
+
+Which is the correct way to create an array in JavaScript? -------->1,2,3
+
+--------------------------------------------------------------------------------------------------------
+
+
+What is true about functions : I) Functions are objects ---------------------->123
+
+function multi(a,b) { var ans = a * b; return ans; } var c = _________------------------->multi (15,2);
+
+Which of the following regarding scope is true?--------------->variables that have 
+
+What is the output you get for the following code?---------->object 
+
+What is the output of the following expression?---------------->nothing
+
+What is the output for the following code  return 2; ------------------------->2 
+
+var i = 1; if (function f(){}) { i += typeof f; } x;-------------->undefined  
+
+Anonymous functions can be created in JavaScript. What do anonymous function do?--------------->process a variable
+
+_____ is an function contained within an object---------------->method 
+
+Function in JavaScript is an object. True or False ?---------->true 
+
+What is the output for the following-------------------->5  
+
+
+Object's properties are similar to variables and methods are similar to---------------->functions 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+By modifying the DOM, the contents on the page also gets modified------------------->true
+
+For any structured document, _____ defines a standard set of objects----------->core DOM
+
+Which statement about the name and id attributes of form fields is false?----------->the ID attribute is  
+
+Which statement accesses HTML classes?-------------------------->get element by class name
+
+Document object is part of ____ object------------------>Window
+
+Your div element in a document has id="answers".----------------> p=creat eelement 
+
+Using HTML button tag, JavaScript command can be executed by using ____ function---------------> "alert('button1');" 
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Which is the most preferred way of handling events?------------->register a
+
+How many 'onload' events can be written in a page----------------> 1
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+_____ object is used to make calls and request data from server------------->XMLhttprequest
+
+The data from the AJAX request is usually in XML. True or False?--------------->false
+
+AJAX requests can support data transfer in ______ format--------->any
+
+
+
+
+
+
+

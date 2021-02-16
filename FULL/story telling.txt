@@ -1,0 +1,41 @@
+_______ helps you get familiar with data. ------------->Exploratory aa
+
+When the content is very less, we can leverage _________ to display information.----->simple text 
+
+_________ uses system of color coding to represent different values.------>heat map
+
+What are the visual elements that take up space but do not increase understanding?--->clutter
+
+Cognitive load theory is created by __________.--->john sweller
+
+What is not a part of story telling with data?--->out box thin
+
+Tone of the language can be compromised.----->true
+
+Which graph has very minimal use cases?---------->vertical
+
+Clutter helps in increasing the communication with Audiences?---> false
+
+The concept of accessibility helps people of different abilities to use designs------>true
+
+Which are the different categories of Graphs?---->all the options
+
+Keeping Color consistent helps the audiences to know that these two pieces of information are related.---->true
+
+Which graphs are used to plot continuous data?----->bar graphas
+
+Clutter helps build a comfortable user experience for your audience.---->false
+
+Color can be neglected if your content is clear.------>false 
+
+When using the Bar graph, the width of the Bars must be --->right side
+
+If Lines are overlapping then SlopeGraph is the best to use.--->true 
+
+
+Which graphs are used to plot continuous data?------------->slope
+
+Including Zero baseline is a good practice.-------->true
+
+is the most widely and commonly used graph.---------->bar
+

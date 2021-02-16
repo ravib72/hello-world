@@ -1,0 +1,118 @@
+//*****TCS Internal*******
+Jenkins allows you to :
+All of the options  --  Correct
+
+Jabber is a :
+Messaging plugin  --  Correct
+
+Project type supported by Jenkins is/are:
+All of the options  --  Correct
+
+Which of the following statement is true about Jenkins?
+Jenkins supports plugins to showcase both metrics and trends  --  Correct
+
+Which of the following functionality is not supported by Jenkins
+Code  --  Correct
+
+Which of the following is an artifact repository that can be configured as a plugin for Jenkins
+Nexus  --  Correct
+
+Jenkins can manage job dependencies using
+File Fingerprinting  --  Correct
+
+Job status notifications can be sent in JSON or XML formats from Jenkins, with out extending it's functionality.
+False  --  Correct
+
+************************************************************************************************************************
+
+Record of multiple builds is displayed using a
+Weather icon  --  Correct
+
+Jenkins build job cannot be triggered manually?
+False  --  Correct
+
+In the build status images, which of the following statement is correct?
+Partial Sun with clouds icon in the status means 20-40% of the recent builds failed  --  Correct
+
+Copy artifacts' is an option that is available for selection under the
+Build Step  --  Correct
+
+If you have multiple projects and if you need to check for new updates, every five minutes, which is the correct CRON expression that Jenkins can use to avoid polling of all the projects at the same time.
+H/5 * * * *  --  Correct
+
+Build can be triggered :
+All of the options  --  Correct
+
+Functional testing can be automated using Jenkins.
+True  --  Correct
+
+************************************************************************************************************************
+
+File usage across Jenkins jobs can be tracked using :
+Fingerprints  --  Correct
+
+View of upstream and downstream connected jobs that forms a build pipeline is provided by:
+Build Pipeline Plugin  --  Correct
+
+Which of the following statement is correct about the build status images ?
+
+
+Jenkins builds the source code :
+In it's own workspace  --  Correct
+
+Jenkins can be configured to monitor external jobs like CRON jobs :
+Choose the 'Monitor External job' option under 'Build Step' section  --  Wrong
+ 
+Users can now implement entire build, deploy and test using :
+All of the options  --  Correct
+
+Master and slave nodes communicate through :
+None of the options
+
+Project type supported by Jenkins is/are:
+All of the options
+
+Backups can be automated using :
+ThinBackup plugin  --  Correct
+
+An amber ball in the build status refers to an unstable build?
+False  --  
+
+In a distributed build environment, master computer can not execute any build and only slaves are capable of running build jobs
+True
+
+For a scalable Jenkins environment which architecture is recommended ?
+Distributed Builds Architecture  --  Correct
+
+Which of the following statement is not true about Jenkins?
+Jenkins is highly secure and does not need any special security provisioning  --  Correct
+
+Originally Jenkins was developed as the Hudson project?
+True  --  Correct
+
+Plugin that changes Jenkins to use green balls instead of blue for successful builds is?
+Buildstatus  
+
+Jenkins is a/an ______________ which can accelerate software development process.
+open source automation server  --  Correct
+
+The expression * */8 * * * indicates which of the following action :
+Job runs every 8th Hours  --  Correct
+
+is a continuous integration tool.
+Maven  -- Wrong
+
+If you want to track which top build projects are using which middle and bottom build projects, what has to be done ?
+Relevant projects to be configured to record fingerprints  --  Correct
+
+Jenkins is capable of displaying the build reports, generate trends and can render them in the GUI?
+True  --  Correct
+
+The available options under 'Build Step' section varies depending on the plugins installed?
+True  --  Correct
+
+Jenkins can be configured to check for changes on a URL to trigger build?
+True  --  Correct
+
+File Fingerprinting is used for:
+Manage job dependencies  --  Correct

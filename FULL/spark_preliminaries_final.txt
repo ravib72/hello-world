@@ -1,0 +1,288 @@
+Spark Preliminaries
+=======================
+
+Which of the following is NOT a characteristic shared by Hadoop and Spark?
+
+Both have their own file system --correct
+
+Both use open source APIs to link between different tools
+
+Both are cluster computing environments
+
+Both are data processing platforms
+
+
+Apache spark has which of the following capabilities?
+
+Distributing
+
+Scheduling
+
+All the options --correct
+
+Monitoring
+
+Which of the following application types can Spark run in addition to batch-processing jobs?
+
+All the options --correct
+
+Machine learning
+
+Graph processing
+
+Stream processing
+
+What kind of data can be handled by Spark ?
+
+Unstructured
+
+All the options --correct
+
+Structured
+
+Semi-structured
+
+What year was Apache Spark made an open source technology?
+
+2010 --correct
+
+2009
+
+2008
+
+2011
+
+Spark can store its data in?
+
+Cassandra
+
+HDFS
+
+All the options --correct
+
+Mongodb
+
+The transformation which produces one output value for each input value and the operation which produces an arbitrary number values for each input value.
+
+map(),flatmap()  --correct
+
+map(),filter()
+
+flatmap(),filter()
+
+flatmap(),map()
+
+Choose correct statement
+
+None
+
+All the transformations and actions are lazily evaluated
+
+Execution starts with the call of Action   --correct
+
+Execution starts with the call of Transformation
+
+Choose correct statement about RDD
+
+None
+
+RDD is a database
+
+RDD is a programming paradigm
+
+RDD is a distributed data structure --correct
+
+Identify correct transformation
+
+Join
+
+Filter
+
+Map
+
+All the options  --correct
+
+We can edit the data of RDD like conversion to uppercase
+
+True
+
+False  --correct
+
+Which action returns all the elements of the dataset as an array.
+
+count()
+
+take()
+
+collect() --correct
+
+reduce(func)
+
+
+RDD is
+
+Immutable
+
+All the options  --correct
+
+Fault-tolerant
+
+Recomputable
+
+An instance of the Spark SQL execution engine that integrates with data stored in Hive:
+
+HiveContext  --correct
+
+HiveLoader
+
+SparkHiveConnector
+
+HiveSparkConnector
+
+Spark supports loading data from Hbase.
+
+True  --correct
+
+False
+
+Benefits of using appropriate file formats in Spark
+
+Faster accessing while read and write
+
+Schema Oriented
+
+All the options  --correct
+
+More compression support
+
+Which of the following file formats are supported by Spark ?
+
+All the options  --correct
+
+Parquet
+
+CSV
+
+Sequence File
+
+JSON
+
+Spark can integrate with which of the following data storage systems?
+
+Hive
+
+All the options  --correct
+
+Google Cloud
+
+Cassandra
+
+
+Which of the following Scala statement would be most appropriate to load the data (sfpd.txt) into an RDD? Assume that SparkContext is available as the variable “sc” and SQLContext as the variable “sqlContext.”
+
+val sfpd=sc.loadFile(“/path to file/sfpd.txt”)
+
+val sfpd=sc.loadText(“/path to file/sfpd.txt”)
+
+val sfpd=sc.textFile(“/path to file/sfpd.txt”)
+
+val sfpd=sqlContext.loadText(“/path to file/sfpd.txt”)
+
+Which of the following is true of running a Spark application on Hadoop YARN?
+
+In Hadoop YARN mode, the RDDs and variables are always in the same memory space
+
+There are two deploy modes that can be used to launch Spark applications on YARN – client mode and cluster mode  --correct
+
+Irrespective of the mode, the driver is launched in the client process that submitted the job
+
+Running in Hadoop YARN has the advantage of having multiple users running the Spark interactive shell
+
+Which is responsible for task scheduling and memory management ?
+
+Spark Context
+
+Spark Session
+
+Spark Streaming
+
+Spark Core  --correct
+
+Which tells spark how and where to access a cluster
+
+Spark Core
+
+Spark Session
+
+Spark Context  --correct
+
+Spark Streaming
+
+To launch a Spark application in any one of the four modes(local, standalone, MESOS or YARN) use
+
+./bin/spark-submit  --correct
+
+./bin/SparkContext
+
+./bin/submit-app
+
+All the options
+
+
+Types of operations that can be performed on RDDs
+
+All the options
+
+Transformation
+
+Action
+
+Action and Map  --correct
+
+Map
+
+Which is the default Storage level in Spark ?
+
+MEMORYANDDISK_SER
+
+MEMORYANDDISK
+
+MEMORYONLYSER
+
+MEMORY_ONLY  --correct
+
+Which of the following is true of caching the RDD ?
+
+Cache behaviour depends on available memory. If not enough memory, then action will reload from file instead of from cache.
+
+All the options --correct
+
+rdd.persist(MEMORY_ONLY) is the same as rdd.cache()
+
+Use rdd.cache() to cache the RDD
+
+RDDs can also be unpersisted to remove RDD from a permanent storage like memory and/or disk.
+
+False
+
+True--correct
+
+By default Spark uses which algorithm to remove old and unused RDD to release more memory.
+
+Round Robin (RR)
+
+First In First Out (FIFO)
+
+Last In First Out (LIFO)
+
+Least Recently Used (LRU) --correct
+
+Which is not a Storage level in Spark ?
+
+HEAPANDDISK --correct
+
+MEMORY_ONLY
+
+MEMORYANDDISK
+
+MEMORYANDDISK_SER

@@ -1,0 +1,39 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf100
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red73\green73\blue73;
+\red184\green14\blue61;\red57\green57\blue57;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\csgray\c100000;\cssrgb\c35686\c35686\c35686;
+\cssrgb\c78039\c14510\c30588;\cssrgb\c29020\c29020\c29020;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl420\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Formula for recall is\'a0\strokec5 ______________ \'97 TP/(TP+FN)\
+\pard\pardeftab720\sl420\partightenfactor0
+\cf2 \strokec4 Learning rate is learnt by the network when training. - True\
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \outl0\strokewidth0 Which one of the following libraries uses computations graph of deeplearning\'a0 -- tensor\
+\'a0\
+Deep learning software platforms are available as downloadable package.\'a0 true\
+\'a0\
+Which one of the following libraries stores and communicates data using blobs -- caffe\
+\'a0\
+Which one of the following libraries is mainly designed for machine vision? --caffe\
+\'a0\
+what is a tensor? -- n-dimensional\
+\'a0\
+Which one of the following libraries comes with visualization tool for deep learning? -- tensor flow\
+\'a0\
+What is meant by precision in terms of deep learning metrics? \outl0\strokewidth0 \strokec6 difference between actual and predicted value\outl0\strokewidth0 \'a0\
+Convolutional neural network is mainly used for image recognition. true\
+\'a0\
+Which one of the functions always maps the values between 0 and 1? sigmoid\
+\'a0\
+Deep learning performs better when sequential processing is used. false\
+\'a0\
+In Pruning technique, initally we start with small number of neurons. false\
+\'a0\
+FPGAs are power efficient when compared to GPU.\'a0 true\outl0\strokewidth0 \strokec5 \
+}
